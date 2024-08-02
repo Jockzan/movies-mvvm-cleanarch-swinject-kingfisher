@@ -183,7 +183,7 @@ struct MoviesView: View {
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/MovieApp.git
+   git clone https://github.com/Jockzan/movies-mvvm-cleanarch-swinject-kingfisher.git
    cd MovieApp
    ```
 
