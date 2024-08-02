@@ -184,7 +184,6 @@ struct MoviesView: View {
 1. Clone the repository:
    ```sh
    git clone https://github.com/Jockzan/movies-mvvm-cleanarch-swinject-kingfisher.git
-   cd MovieApp
    ```
 
 2. Open the project in Xcode.
